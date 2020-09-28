@@ -46,12 +46,15 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero img {
-    height: 100%;
+.hero {
+    height: 800px;
     width: 100%;
-    border: 0;
+    margin-bottom: 25px;
+    background-image: url("../css/images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
+
 .float-left {
     float: left;
     margin-right: 25px;
